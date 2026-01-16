@@ -11,7 +11,7 @@
   "dependencies": {
     "@napi-rs/canvas": "^0.1.54",
     "fs": "^0.0.1-security",
-    "jimp": "^0.22.12",
+    "jimp": "^1.6.0",
     "pretty-ms": "^9.1.0"
   },
   "repository": {
